@@ -1,6 +1,6 @@
 const API_URL = 'https://api.giphy.com/v1/gifs/trending?api_key=Bt1uIy2S9LonG1XUiGliN7XGs1OgLmcX&limit=25&rating=g';
 const MAIN = document.getElementById('menu-container');
-
+const MENU = document.getElementById('trends');
 
 getData();
 // let btnNext;
@@ -27,6 +27,21 @@ function showGifs(data) {
         MAIN.appendChild(box);
     });
 
+    const head = document.createElement('div');
+    head.classList.add('heading');
+
+   
+    head.innerHTML =
+    `
+    <div class="col pt-3" style="width:100%; text-align: -webkit-center;">
+    <div class="social">
+        <a href="#"><i class='bx bx-skip-previous'></i></a>
+        <a href="#"><i class='bx bx-skip-next'></i></a>
+    </div>
+   </div>
+    `
+
+    MENU.appendChild(head);
     // btnNext = data.pagination.offset ? `<button>Next</button>` : '';
     // btnPrevious = data.pagination.offset ? `<button>Previous</button>` : '';
 
