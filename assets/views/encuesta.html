@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CUERVANA 3</title>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap"
+    rel="stylesheet"
+  />
+    <link href="../css/encuesta.css" rel="stylesheet" />
+</head>
+<body>
+    <body>
+        <div class='container'>
+            <div class='wrapper'>
+                <div class='company-info'>
+                    <h1>Cuervana 3</h1>
+            </div>
+            <div class='contact'>
+                <h3>Encuesta de Satisfacción</h3>
+                <form id="form">
+                    <p>
+                        <label>Nombre</label>
+                        <input type="text" id="nombre" name="nombre"></input>
+                    </p>
+                    <p>
+                        <label>Apellido</label>
+                        <input type="text" id="apellido" name="apellido"></input>
+                    </p>
+                    <p>
+                        <label>Fecha de Nacimiento</label>
+                        <input type="date" id="fnacimiento" name="fnacimiento"></input>
+                    </p>
+                    <p>
+                        <label>Sexo</label>
+                        <select id="sexo" name="sexo">
+                            <option value="none" disabled selected>Selecciona tu sexo</option>
+                            <option value="M">Masculino</option>
+                            <option value="F">Femenino</option>
+                          </select>
+                    </p>
+                    <p>
+                        <label>Grupo de Valoración</label>
+                        <select id="gvaloracion" name="gvaloracion">
+                            <option value="none" disabled selected>Selecciona tu valoracion</option>
+                            <option value="1">Lamentable</option>
+                            <option value="2">Mala</option>
+                            <option value="3">Podría ser mejor</option>
+                            <option value="4">Cumple con mis expectativas</option>
+                            <option value="5">Me encantó</option>
+                          </select>
+                    </p>
+                    <p>
+                        <label>Email</label>
+                        <input type="email" id="email" name="email"></input>
+                    </p>
+                    <p>
+                        <label>Comentario</label>
+                        <textarea rows="5" id="comentario"></textarea>
+                    </p>
+                    <p class='full'>
+                        <button id="resetButtom">Restablecer valores</button>
+                        <button id="cancelButtom">Cancelar</button></a>
+                        <button id="send" type="submit">Enviar</button>   
+                    </p>
+                </form>
+            </div>
+            <div id="popup" class="overlay">
+                <div class="popup">
+                    <div class="content">
+                        Quieres cancelar?
+                    </div>
+                    <button class="buttom" id="cancelConfirm">Si, deseo volver al menu anterior</button>
+                    <button class="buttom" id="closeButtom">No, continuar con la encuesta</button>
+                </div>
+            </div>
+        </div>
+        <script src="../js/encuesta.js"></script>
+    </body>
+</body>
+</html>

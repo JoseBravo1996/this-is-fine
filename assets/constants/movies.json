@@ -1,0 +1,142 @@
+[
+    {
+        "title": "A Legendary Fighter",
+        "genre": "accion",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18jITPyoE7GF6wPRMpvbslYZn5b.jpg",
+        "vote_average": "3.18",
+        "id": "1"
+    },
+    {
+        "title": "Thor: Amor y Trueno",
+        "genre": "accion",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kf9Bib75eduxt0QiVJO4pawfd9p.jpg",
+        "vote_average": "3.98",
+        "id": "2"
+    },
+    {
+        "title": "Dragon Ball Super: Super Hero",
+        "genre": "accion",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPwXtxnEgppVaMsrpPNajw1K7LH.jpg",
+        "vote_average": "4.21",
+        "id": "3"
+    },
+    {
+        "title": "Samaritan",
+        "genre": "accion",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg",
+        "vote_average": "4.16",
+        "id": "4"
+    },
+    {
+        "title": "La bestia",
+        "genre": "aventura",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lGIkv9fQ3i7yVcJXDvG0Vry00LI.jpg",
+        "vote_average": "3.7",
+        "id": "5"
+    },
+    {
+        "title": "Jurassic World: Dominion",
+        "genre": "aventura",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
+        "vote_average": "4.15",
+        "id": "6"
+    },
+    {
+        "title": "Alcarràs",
+        "genre": "aventura",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQYR7MNLtLWN1WdbITOqzA28eH9.jpg",
+        "vote_average": "3.47",
+        "id": "7"
+    },
+    {
+        "title": "Trece vidas",
+        "genre": "aventura",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nG51pBf6PaBkdwuoyeDxMSOfa6p.jpg",
+        "vote_average": "4.54",
+        "id": "8"
+    },
+    {
+        "title": "Final del camino",
+        "genre": "crimen",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xgTNcdqbiVTVWbETtCkWCP2tLz.jpg",
+        "vote_average": "4.02",
+        "id": "9"
+    },
+    {
+        "title": "Mira por mí",
+        "genre": "crimen",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bh5V0ICTw8UqNaJf70CVYpO22CZ.jpg",
+        "vote_average": "4",
+        "id": "10"
+    },
+    {
+        "title": "Hinterland",
+        "genre": "crimen",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/87ImGAM10BAX8Ivj0WinuJLoWkE.jpg",
+        "vote_average": "3.82",
+        "id": "11"
+    },
+    {
+        "title": "Seúl a toda pastilla",
+        "genre": "crimen",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t22p3S4eViY3DE5269kUzOPrAlg.jpg",
+        "vote_average": "4.06",
+        "id": "12"
+    },
+    {
+        "title": "Pinocho",
+        "genre": "comedia",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62hEK8hGr9Ni0PyDwmsZHuhCLeq.jpg",
+        "vote_average": "3.98",
+        "id": "13"
+    },
+    {
+        "title": "Seúl a toda pastilla",
+        "genre": "comedia",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t22p3S4eViY3DE5269kUzOPrAlg.jpg",
+        "vote_average": "4.08",
+        "id": "14"
+    },
+    {
+        "title": "Tiempo para Mí",
+        "genre": "comedia",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBiayvJ6SjXLvh642VmLQBAvbyw.jpg",
+        "vote_average": "3.96",
+        "id": "15"
+    },
+    {
+        "title": "…Y si no, nos enfadamos",
+        "genre": "comedia",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dyD79pPLELCxjJBKXiFDC7df8s.jpg",
+        "vote_average": "2.97",
+        "id": "16"
+    },
+    {
+        "title": "Un nuevo mundo",
+        "genre": "drama",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FTLBa1KPwvD9wEfWtwIEPX8nhr.jpg",
+        "vote_average": "3.90",
+        "id": "17"
+    },
+    {
+        "title": "Mentes maravillosas",
+        "genre": "drama",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x04knslsWoTFIDMxvZxUnjPr5g1.jpg",
+        "vote_average": "4.58",
+        "id": "18"
+    },
+    {
+        "title": "Desaparecidos",
+        "genre": "drama",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xW0nJ7KoFg0MEtPxCC66ddw6NlW.jpg",
+        "vote_average": "4.11",
+        "id": "19"
+    },
+    {
+        "title": "Wolf",
+        "genre": "drama",
+        "poster_path": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d1Qx5KI4qdgTlKNsbIncnotU99m.jpg",
+        "vote_average": "3.3",
+        "id": "20"
+    }
+]
